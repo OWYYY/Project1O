@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C77D62C4-9A5C-4F80-AC90-04BAE0BBDE90}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1O/login.xaml">
+    <Files>
+      <File FileName="Project1O/MainPage.xaml.cs" Line="51" Column="2" />
+      <File FileName="Project1O/MainPage.xaml" Line="36" Column="15" />
+      <File FileName="Project1O/models/product.cs" Line="14" Column="1" />
+      <File FileName="Project1O/Views/personView.cs" Line="42" Column="6" />
+      <File FileName="Project1O.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Project1O/MyPage1.xaml" Line="6" Column="1" />
+      <File FileName="Project1O/MyPage1.xaml.cs" Line="1" Column="1" />
+      <File FileName="Project1O/MyPage2.xaml" Line="26" Column="1" />
+      <File FileName="Project1O/MyPage2.xaml.cs" Line="1" Column="1" />
+      <File FileName="Project1O/App.xaml.cs" Line="10" Column="6" />
+      <File FileName="Project1O/App.xaml" Line="5" Column="15" />
+      <File FileName="Project1O.Android/button/Click.cs" Line="1" Column="1" />
+      <File FileName="Project1O.Android/buttonClicked.cs" Line="1" Column="1" />
+      <File FileName="Project1O/log.xaml" Line="8" Column="27" />
+      <File FileName="Project1O/log.xaml.cs" Line="41" Column="13" />
+      <File FileName="Project1O/models/content.cs" Line="9" Column="6" />
+      <File FileName="Project1O/models/user.cs" Line="8" Column="36" />
+      <File FileName="Project1O/models/usernames.cs" Line="40" Column="1" />
+      <File FileName="Project1O/models/take.cs" Line="24" Column="1" />
+      <File FileName="Project1O/login.xaml" Line="19" Column="1" />
+      <File FileName="Project1O/login.xaml.cs" Line="24" Column="1" />
+      <File FileName="../../../Users/owen/Desktop/:Volumes:S:Project1O:Project1O:MyPage3.xaml" Line="15" Column="1" />
+      <File FileName="Project1O/MyPage4.xaml" Line="4" Column="31" />
+      <File FileName="Project1O/MyPage4.xaml.cs" Line="1" Column="1" />
+      <File FileName="Project1O/Views/personV1.cs" Line="13" Column="45" />
+      <File FileName="Project1O.Android/Resources/Resource.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project1O.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4FB3923F-07C9-4987-A613-0B0B5D1A2544" />
+  <MonoDevelop.Ide.ItemProperties.Project1O.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.Project1O FirstBuild="True" />
+</Properties>
